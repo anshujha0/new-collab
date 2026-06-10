@@ -1,4 +1,4 @@
-react 
+react stat
 import React from 'react';
 
 const DummyComponent = () => {
