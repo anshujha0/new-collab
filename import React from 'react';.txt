@@ -14,3 +14,5 @@ export default DummyComponent;
 
 New changes in practice branch
 git command
+HELLO GOOD MORINING ,
+WHAT ARE YOU DOING
