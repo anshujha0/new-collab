@@ -1,4 +1,4 @@
-/menyooStuff/Spooner
+gtamods/menyooStuff/Spooner
 
 Add Object Spooner 'map-mod' xml files here.
 HELLO GOOD MORINING ,
